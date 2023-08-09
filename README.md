@@ -1,6 +1,6 @@
 # ContactBook
 
-Contact book program that tracks your contacts' name, mobile number, email and group
+Contact book program (with command line UI) that tracks your contacts' name, mobile number, email and group
 
 Supports
 1. Adding contacts
